@@ -1,3 +1,7 @@
+<<<<<<< 375eef51f4dcd0d60e545d5d44fdbc2f317c7e2f
 
 add
 add new
+=======
+add tiwce
+>>>>>>> modified
